@@ -1,3 +1,9 @@
+body {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
 .app {
   font-family: sans-serif;
   text-align: center;
